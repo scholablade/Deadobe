@@ -63,7 +63,7 @@ RawTherapee| RawTherapee is a free RAW converter and digital photo processing so
 | Name     | Description    |
 | --- | ---    |
 | Manuscript    | Manuskript is an open-source tool for writers, with outliner, character management, plot development, distraction-free editor, etc.    |
-#### Character Animator"
+#### Character Animator
 | Name     | Description    |
 | --- | ---    |
 | Synfig Studio    | Synfig is a free and open-source, industrial-strength, vector-based 2D animation app designed for producing feature-film animations. It eliminates the need to create animations frame by frame. It is available for Windows, Linux, and macOS.    |
