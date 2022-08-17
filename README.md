@@ -1,10 +1,9 @@
 # Deadobe
-A huge list of alternatives to Google products.
-## Alternatives
+A huge list of alternatives to Adobe products.
 ### Note
 Only open source alternatives are included.
 Acrobat Pro, Dreamweaver, Dimension, Capture, Premiere Rush, Photoshop Camera, Aero, Prelude and Lightroom Web the excluded from the list considering there are no worthwhile alternative I found.
-
+## Alternatives
 ### Creative cloud
 #### Photoshop
 |   Name  |Description     |
