@@ -91,49 +91,29 @@ considering there are no worthwhile alternative I found.
 | quigv     | Qt5 image viewer with optional video support. Contribute to easymodo/qimgv development by creating an account on GitHub.                                                                                                                       |
 
 **** Photoshop Express
-     :PROPERTIES:
-     :CUSTOM_ID: photoshop-express
-     :END:
-
 | Name        | Description                                                                                                                                                                                                                                                 |
 |-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GIMP        | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free.                                                                                              |
 | Pixelitor   | Pixelitor is a cross-platform raster graphics editor written in Java. It supports image filters, drawing, layers, multiple undo, etc. Currently its main strength lies in the more than 70 image filters and color adjustments, some of which are unique.   |
 
 **** Media Encoder
-     :PROPERTIES:
-     :CUSTOM_ID: media-encoder
-     :END:
-
 | Name        | Description                                                                                                                                                                                                                                                                 |
 |-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Handbrake   | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows).   |
 | FFmeg       | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.                         |
 
 **** Scan
-     :PROPERTIES:
-     :CUSTOM_ID: scan
-     :END:
-
 | Name           | Description                                                                                  |
 |----------------+----------------------------------------------------------------------------------------------|
 | GImageReader   | gImageReader is a simple Gtk/Qt front-end to the Tesseract OCR Engine.                       |
 | Tesseract      | Tesseract.js is a javascript library that gets words in almost any language out of images.   |
 
 **** Fill & Sign
-     :PROPERTIES:
-     :CUSTOM_ID: fill-sign
-     :END:
-
 | Name       | Description                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JsignPdf   | JSignPdf is a Java application which adds digital signatures to PDF documents. It can be used as a standalone application or as an Add-On in OpenOffice.org. The application uses the jsignpdf-itxt library for PDF manipulations (based on iText library in version 2.1.7 with LGPL/MPL license). JSignPdf is open-source software and can be freely used in both private and business sectors.   |
 
 **** Acrobat Reader
-     :PROPERTIES:
-     :CUSTOM_ID: acrobat-reader
-     :END:
-
 | Name         | Description                                                                                                                                                                                                                                           |
 |--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SumatraPDF   | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                                                                                                                           |
