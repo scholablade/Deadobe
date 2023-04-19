@@ -12,16 +12,12 @@ considering there are no worthwhile alternative I found.
 | [[https://www.gimp.org/][GIMP]]  | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free. |
 | [[https://krita.org/][Krita]] | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics. |
 
-
-
-
-
 **** Illustrator
 | Name     | Description                                                                                                                                            |
-|          |                                                                                                                                                        |
 |----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://inkscape.org/][Inkscape]] | Unlike Illustrator, Inkscape is completely free and open source, and it uses Scalable Vector Graphics (SVG) as its native format. This lightweight app is usually recommended if you don't have a powerful computer, as it also has many of the useful features from illustrator, including layers, grouping objects, drawing, shape, calligraphy, pencil tools, path simplification with variable threshold, bitmaps, and boolean operations. Plus, you can open or import a wide range of file formats including SVG, PDF, EPS, CDR, or even AI (Adobe Illustrator). |
 | [[https://mypaint-app.com/][MyPaint]]  | The biggest difference with Illustrator is that MyPaint works with bitmaps instead of vector graphics. It's open source software designed mainly to illustrate and draw with a digitizer tablet. It has a simple interface, where almost all the basic drawing functions are assigned to keyboard shortcuts, which improves workflow speed. In addition, you can hide the entire graphical interface and focus all attention on the drawing without being distracted by unnecessary or complex buttons or palettes. It's a good option if you are interested in digital illustration without too many overwhelming features. |
+
 **** Indesign
 
 | Name      | Description                                                                                                                                                                                                                                                               |
@@ -47,7 +43,6 @@ considering there are no worthwhile alternative I found.
 | [[https://rawtherapee.com/][RawTherapee]]   | RawTherapee is a free RAW converter and digital photo processing software. All changes can be applied and batch processed at a convenient time.                                                                                       |
 
 **** XD
-
 | Name     | Description                                                                                                                                                                                                                              |
 |----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://penpot.app/][Penpot]]   | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.   |
