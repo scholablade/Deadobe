@@ -76,10 +76,11 @@ considering there are no worthwhile alternative I found.
 | [[https://maurycyliebner.github.io/][enve]]          | Enve is a free and open-source 2D animation app. It can create both vector and raster animations and even use sound and video files. It has been created with flexibility and expandability in mind. |
 
 **** Fresco
-| Name      | Description                                                                                                                                                                                                                 |
-|-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://krita.org/][Krita]]     | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics.   |
-| [[https://mypaint-app.com/][MyPaint]]   | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics.   |
+| Name    | Description                                                                                                                                            |
+|---------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://krita.org/][Krita]]   | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics. |
+| [[https://mypaint-app.com/][MyPaint]] | The biggest difference with Illustrator is that MyPaint works with bitmaps instead of vector graphics. It's open source software designed mainly to illustrate and draw with a digitizer tablet. It has a simple interface, where almost all the basic drawing functions are assigned to keyboard shortcuts, which improves workflow speed. In addition, you can hide the entire graphical interface and focus all attention on the drawing without being distracted by unnecessary or complex buttons or palettes. It's a good option if you are interested in digital illustration without too many overwhelming features. |
+
 
 **** Bridge
 | Name      | Description                                                                                                                                                                                                                                    |
