@@ -6,7 +6,7 @@ Acrobat Pro, Dreamweaver, Dimension, Capture, Premiere Rush, Photoshop Camera, A
 considering there are no worthwhile alternative I found.
 ** Alternatives
 *** Creative cloud
-**** Photoshop | Name
+**** Photoshop
 | Name  | Description                                                                                                                                            |
 |-------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.gimp.org/][GIMP]]  | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free. |
@@ -115,3 +115,5 @@ considering there are no worthwhile alternative I found.
 |--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]]   | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                                                                                                                           |
 | [[https://wiki.gnome.org/Apps/Evince][Evince]]       | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details.   |
+** Credit
+Credit to [[https://github.com/tycrek/degoogle][degoogle]] for the inspiration.
