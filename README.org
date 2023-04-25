@@ -77,6 +77,8 @@ considering there are no worthwhile alternative I found.
 |---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.wickeditor.com/][Wick Editor]]   | The Wick Editor is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web. Your creations can run on any device with a web browser - that means mobile too.   |
 | [[https://opentoonz.github.io/e/][OpenToonz]]     | OpenToonz is an animation program that is a free software version of Toonz, the animation software used by Studio Ghibli, amongst others.                                                                                                                                              |
+| [[https://godotengine.org/][Godot]]  |  The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. 
+  |
 
 *** Lightroom Classic
 | Name          | Description                                                                                                                                                                                                                           |
