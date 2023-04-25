@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 * Deadobe
 A huge list of alternatives to Adobe products.
 ** Note
