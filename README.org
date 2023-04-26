@@ -32,10 +32,11 @@ considering there are no worthwhile alternative I found.
 * Alternatives
 ** Creative cloud
 *** Photoshop
-| Name  | Description                                                                                                                                            |
-|-------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://www.gimp.org/][GIMP]]  | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free. |
-| [[https://krita.org/][Krita]] | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics. |
+| Name      | Description                                                                                                                                            |
+|-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://www.gimp.org/][GIMP]]      | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free. |
+| [[https://krita.org/][Krita]]     | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics. |
+| PhotoGIMP | A Patch for GIMP 2.10+ for Photoshop Users                                                                                                                                                       |
 
 *** Illustrator
 | Name     | Description                                                                                                                                            |
