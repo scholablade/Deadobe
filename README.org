@@ -78,6 +78,8 @@ considering there are no worthwhile alternative I found.
 |---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.wickeditor.com/][Wick Editor]]   | The Wick Editor is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web. Your creations can run on any device with a web browser - that means mobile too.   |
 | [[https://opentoonz.github.io/e/][OpenToonz]]     | OpenToonz is an animation program that is a free software version of Toonz, the animation software used by Studio Ghibli, amongst others.                                                                                                                                              |
+| [[https://godotengine.org/][Godot]]  |  The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. 
+  |
 
 *** Lightroom Classic
 | Name          | Description                                                                                                                                                                                                                           |
@@ -139,6 +141,8 @@ considering there are no worthwhile alternative I found.
 *** Acrobat Reader
 | Name         | Description                                                                                                                                                                                                                                           |
 |--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://okular.kde.org/][Okular]]  | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
+  |
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]]   | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                                                                                                                           |
 | [[https://wiki.gnome.org/Apps/Evince][Evince]]       | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details.   |
 * Credit
