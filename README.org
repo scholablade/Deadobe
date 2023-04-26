@@ -69,9 +69,10 @@ considering there are no worthwhile alternative I found.
 | [[https://rawtherapee.com/][RawTherapee]]   | RawTherapee is a free RAW converter and digital photo processing software. All changes can be applied and batch processed at a convenient time.                                                                                       |
 
 *** XD
-| Name     | Description                                                                                                                                                                                                                              |
-|----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://penpot.app/][Penpot]]   | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.   |
+| Name   | Description                                                                                                                                            |
+|--------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://penpot.app/][Penpot]] | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community. |
+| [[https://pencil.evolus.vn/][Pencil]] | Pencil is a standalone app that lets you create diagrams or UI mockups. It doesn't have collaboration/multi-user features.                             |
 
 *** Animate
 | Name          | Description                                                                                                                                                                                                                                                                            |
