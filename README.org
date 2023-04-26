@@ -92,6 +92,7 @@ considering there are no worthwhile alternative I found.
  | Name     | Description                                                                                                                                            |
  |----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
  | [[https://www.audacityteam.org/][Audacity]] | Audacity is free, open source software for recording and editing sounds. You can use Audacity to record live audio, convert tapes and records, edit sound files, change the speed or pitch of a recording and much more. |
+ | [[http://ardour.org/][Ardour]]   | Ardour is a hard disk recorder and digital audio workstation application. Record, edit, and mix on Linux, Mac OS X, and Windows.                       |
 
 *** InCopy
 | Name       | Description                                                                                                                         |
