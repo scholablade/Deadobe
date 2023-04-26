@@ -36,7 +36,7 @@ considering there are no worthwhile alternative I found.
 |-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.gimp.org/][GIMP]]      | GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free. |
 | [[https://krita.org/][Krita]]     | Krita is a professional Free and open source (FOSS) painting program. It is made by artists that want to see affordable art tools for everyone is made by artists that want to see affordable art tools for everyone withith concept art, texture and matte painters, illustrations and comics. |
-| PhotoGIMP | A Patch for GIMP 2.10+ for Photoshop Users                                                                                                                                                       |
+| [[https://github.com/Diolinux/PhotoGIMP][PhotoGIMP]] | A Patch for GIMP 2.10+ for Photoshop Users                                                                                                                                                       |
 
 *** Illustrator
 | Name     | Description                                                                                                                                            |
@@ -139,11 +139,12 @@ considering there are no worthwhile alternative I found.
 | [[https://jsignpdf.sourceforge.net/][JsignPdf]]   | JSignPdf is a Java application which adds digital signatures to PDF documents. It can be used as a standalone application or as an Add-On in OpenOffice.org. The application uses the jsignpdf-itxt library for PDF manipulations (based on iText library in version 2.1.7 with LGPL/MPL license). JSignPdf is open-source software and can be freely used in both private and business sectors.   |
 
 *** Acrobat Reader
-| Name         | Description                                                                                                                                                                                                                                           |
-|--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://okular.kde.org/][Okular]]  | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
-  |
-| [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]]   | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                                                                                                                           |
-| [[https://wiki.gnome.org/Apps/Evince][Evince]]       | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details.   |
+| Name                                                             | Description                                                                                                                                            |
+|------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://okular.kde.org/][Okular]]                              | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.                            |
+|                                                                  |                                                                                                                                                        |
+| [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]] | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                            |
+| [[https://wiki.gnome.org/Apps/Evince][Evince]]                   | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
+|                                                                  |                                                                                                                                                      |
 * Credit
 Credit to [[https://github.com/tycrek/degoogle][degoogle]] for the inspiration.
