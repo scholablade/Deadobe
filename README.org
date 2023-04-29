@@ -129,6 +129,7 @@ considering there are no worthwhile alternative I found.
 |-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://handbrake.fr/][Handbrake]]   | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows).   |
 | [[https://ffmpeg.org/][FFmpeg]]       | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.                         |
+| [[https://www.shutterencoder.com/en/][Shutter Encoder]]       | Shutter Encoder is a GUI for video transcoding, designed specifically for video post-production work. It makes use of FFmpeg to handle its encoding, allowing support for almost every codec you’ve ever heard of, and many more you haven’t.                        |
 
 *** Scan
 | Name           | Description                                                                                  |
