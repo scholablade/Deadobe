@@ -55,6 +55,7 @@ considering there are no worthwhile alternative I found.
 |------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://kdenlive.org/][Kdenlive]]   | Kdenlive is a non linear video editor. It is based on the MLT framework and accepts many audio and video formats, allows you to add effects, transitions and render into the format of your choice.   |
 | [[https://www.shotcut.org/][Shotcut]]    | Shotcut is a free, open source, cross-platform, non-linear video editor.                                                                                                                              |
+| [[https://olivevideoeditor.org/][Olive]]    | Olive is a free non-linear video editor for Windows, macOS, and Linux. It offers advanced features such as color management and node based compositing.                                                                                                                              |
 
 *** After effects
 | Name      | Description                                                                                                                                                                                                  |
