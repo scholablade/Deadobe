@@ -124,29 +124,27 @@ considering there are no worthwhile alternative I found.
 | [[https://pixelitor.sourceforge.io/][Pixelitor]]   | Pixelitor is a cross-platform raster graphics editor written in Java. It supports image filters, drawing, layers, multiple undo, etc. Currently its main strength lies in the more than 70 image filters and color adjustments, some of which are unique.   |
 
 *** Media Encoder
-| Name        | Description                                                                                                                                                                                                                                                                 |
-|-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://handbrake.fr/][Handbrake]]   | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows).   |
-| [[https://ffmpeg.org/][FFmpeg]]       | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.                         |
+| Name      | Description                                                                                                                                            |
+|-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://handbrake.fr/][Handbrake]] | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows). |
+| [[https://ffmpeg.org/][FFmpeg]]    | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge. |
 
 *** Scan
 | Name           | Description                                                                                  |
 |----------------+----------------------------------------------------------------------------------------------|
 | [[https://github.com/manisandro/gImageReader][GImageReader]]   | gImageReader is a simple Gtk/Qt front-end to the Tesseract OCR Engine.                       |
 | [[https://tesseract-ocr.github.io/][Tesseract]]      | Tesseract.js is a javascript library that gets words in almost any language out of images.   |
-
 *** Fill & Sign
 | Name       | Description                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [[https://jsignpdf.sourceforge.net/][JsignPdf]]   | JSignPdf is a Java application which adds digital signatures to PDF documents. It can be used as a standalone application or as an Add-On in OpenOffice.org. The application uses the jsignpdf-itxt library for PDF manipulations (based on iText library in version 2.1.7 with LGPL/MPL license). JSignPdf is open-source software and can be freely used in both private and business sectors.   |
 
 *** Acrobat Reader
-| Name                                                             | Description                                                                                                                                            |
-|------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://okular.kde.org/][Okular]]                              | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.                            |
-|                                                                  |                                                                                                                                                        |
+| Name       | Description                                                                                                                                            |
+|------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://okular.kde.org/][Okular]]     | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.                            |
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]] | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                            |
-| [[https://wiki.gnome.org/Apps/Evince][Evince]]                   | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
-|                                                                  |                                                                                                                                                      |
+| [[https://wiki.gnome.org/Apps/Evince][Evince]]     | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
+
 * Credit
 Credit to [[https://github.com/tycrek/degoogle][degoogle]] for the inspiration.
