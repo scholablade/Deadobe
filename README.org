@@ -125,24 +125,18 @@ considering there are no worthwhile alternative I found.
 | [[https://pixelitor.sourceforge.io/][Pixelitor]]   | Pixelitor is a cross-platform raster graphics editor written in Java. It supports image filters, drawing, layers, multiple undo, etc. Currently its main strength lies in the more than 70 image filters and color adjustments, some of which are unique.   |
 
 *** Media Encoder
-<<<<<<< HEAD
-| Name      | Description                                                                                                                                            |
-|-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://handbrake.fr/][Handbrake]] | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows). |
-| [[https://ffmpeg.org/][FFmpeg]]    | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge. |
-=======
-| Name        | Description                                                                                                                                                                                                                                                                 |
-|-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://handbrake.fr/][Handbrake]]   | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows).   |
-| [[https://ffmpeg.org/][FFmpeg]]       | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.                         |
-| [[https://www.shutterencoder.com/en/][Shutter Encoder]]       | Shutter Encoder is a GUI for video transcoding, designed specifically for video post-production work. It makes use of FFmpeg to handle its encoding, allowing support for almost every codec you’ve ever heard of, and many more you haven’t.                        |
->>>>>>> 8f830d78b8e3cfea12ddc1bf0f00f38c62576fed
+| Name            | Description                                                                                                                                            |
+|-----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://handbrake.fr/][Handbrake]]       | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows). |
+| [[https://ffmpeg.org/][FFmpeg]]          | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge. |
+| [[https://www.shutterencoder.com/en/][Shutter Encoder]] | Shutter Encoder is a GUI for video transcoding, designed specifically for video post-production work. It makes use of FFmpeg to handle its encoding, allowing support for almost every codec you’ve ever heard of, and many more you haven’t. |
 
 *** Scan
 | Name           | Description                                                                                  |
 |----------------+----------------------------------------------------------------------------------------------|
 | [[https://github.com/manisandro/gImageReader][GImageReader]]   | gImageReader is a simple Gtk/Qt front-end to the Tesseract OCR Engine.                       |
 | [[https://tesseract-ocr.github.io/][Tesseract]]      | Tesseract.js is a javascript library that gets words in almost any language out of images.   |
+
 *** Fill & Sign
 | Name       | Description                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
