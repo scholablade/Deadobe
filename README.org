@@ -149,6 +149,13 @@ considering there are no worthwhile alternative I found.
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]] | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                            |
 | [[https://wiki.gnome.org/Apps/Evince][Evince]]     | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
 
+* Links
+[[https:switching.software][switching.software]] has a pretty good list of alternatives to Adobe.
+[[https:alternativeto.net][AlternativeTo]], while non-free (free as in freedom), it is the best source to find a specific product alternative.
+[[https:https://github.com/tycrek/degoogle][degoogle]] is a similar list to this one but focusing on Google rather than Adobe.
+[[https:https://www.privacyguides.org/en/][Privacy Guides]] is a guide to use privacy centric software.
+[[https:https://directory.fsf.org/wiki/Main_Page][Free Sofware Directory]] is a catalog of free software.
+
 * Credit
 Credit to [[https://github.com/tycrek/degoogle][degoogle]] for inspiration.
 Credit to [[alternativeto.net][AlternativeTo]] for information.
