@@ -59,10 +59,11 @@ considering there are no worthwhile alternative I found.
 | [[https://olivevideoeditor.org/][Olive]]    | Olive is a free non-linear video editor for Windows, macOS, and Linux. It offers advanced features such as color management and node based compositing.                                                                                                                              |
 
 *** After effects
-| Name      | Description                                                                                                                                                                                                  |
-|-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://natrongithub.github.io/][Natron]]    | Natron is an open source, cross platform nodal compositing application. It is built around industry standard open source tech such as OpenFX, OpenEXR, OpenColorIO and OpenImageIO.                          |
-| [[https://www.blender.org/][Blender]]   | Blender is the free and open-source 3D creation suite. It supports the entirety of the 3D pipeline---modeling, rigging, animation, simulation, rendering, compositing, video editing, and motion tracking.   |
+| Name    | Description                                                                                                                                            |
+|---------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://natrongithub.github.io/][Natron]]  | Natron is an open source, cross platform nodal compositing application. It is built around industry standard open source tech such as OpenFX, OpenEXR, OpenColorIO and OpenImageIO. |
+| [[https://www.blender.org/][Blender]] | Blender is the free and open-source 3D creation suite. It supports the entirety of the 3D pipeline---modeling, rigging, animation, simulation, rendering, compositing, video editing, and motion tracking. |
+|         |                                                                                                                                                      |
 
 *** Lightroom
 | Name          | Description                                                                                                                                                                                                                           |
@@ -77,12 +78,16 @@ considering there are no worthwhile alternative I found.
 | [[https://pencil.evolus.vn/][Pencil]] | Pencil is a standalone app that lets you create diagrams or UI mockups. It doesn't have collaboration/multi-user features.                             |
 
 *** Animate
-| Name          | Description                                                                                                                                                                                                                                                                            |
-|---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://www.wickeditor.com/][Wick Editor]]   | The Wick Editor is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web. Your creations can run on any device with a web browser - that means mobile too.   |
-| [[https://opentoonz.github.io/e/][OpenToonz]]     | OpenToonz is an animation program that is a free software version of Toonz, the animation software used by Studio Ghibli, amongst others.                                                                                                                                              |
-| [[https://godotengine.org/][Godot]]  |  The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. 
-  |
+| Name        | Description                                                                                                                                            |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://www.wickeditor.com/][Wick Editor]] | The Wick Editor is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web. Your creations can run on any device with a web browser - that means mobile too. |
+| [[https://opentoonz.github.io/e/][OpenToonz]]   | OpenToonz is an animation program that is a free software version of Toonz, the animation software used by Studio Ghibli, amongst others.              |
+| [[https://godotengine.org/][Godot]]       | The Godot Engine is a free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games.                               |
+| [[https:https://tupitube.com/index.php?r=dashboard%2Fdashboard][TupiTube]]    | TupiTube App is a 2D animation tool.                                                                                                                   |
+| [[https:https://maurycyliebner.github.io/][enve]]        | Open-source 2D animation app for desktop computers.                                                                                                    |
+
+
+
 
 *** Lightroom Classic
 | Name          | Description                                                                                                                                                                                                                           |
@@ -95,6 +100,7 @@ considering there are no worthwhile alternative I found.
  |----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
  | [[https://www.audacityteam.org/][Audacity]] | Audacity is free, open source software for recording and editing sounds. You can use Audacity to record live audio, convert tapes and records, edit sound files, change the speed or pitch of a recording and much more. |
  | [[http://ardour.org/][Ardour]]   | Ardour is a hard disk recorder and digital audio workstation application. Record, edit, and mix on Linux, Mac OS X, and Windows.                       |
+ | [[https:https://tenacityaudio.org/][Tenacity]] | an easy-to-use, cross-platform multi-track audio editor/recorder.                                                                                                                                                      |
 
 *** InCopy
 | Name       | Description                                                                                                                         |
@@ -114,10 +120,15 @@ considering there are no worthwhile alternative I found.
 | [[https://mypaint-app.com/][MyPaint]] | MyPaint is a fast, distraction-free, and easy painting tool for digital artists. It supports graphics tablets made by Wacom, and many similar devices. |
 
 *** Bridge
-| Name      | Description                                                                                                                                                                                                                                    |
-|-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [[https://www.digikam.org/][DigiKam]]   | digiKam is an advanced digital photo management application which makes importing and organizing digital photos a "snap". The photos are organized in albums which can be sorted chronologically, by folder layout or by custom collections.   |
-| [[https://github.com/easymodo/qimgv][quigv]]     | Qt5 image viewer with optional video support. Contribute to easymodo/qimgv development by creating an account on GitHub.                                                                                                                       |
+| Name     | Description                                                                                                                                            |
+|----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [[https://www.digikam.org/][DigiKam]]  | digiKam is an advanced digital photo management application which makes importing and organizing digital photos a "snap". The photos are organized in albums which can be sorted chronologically, by folder layout or by custom collections. |
+| [[https://github.com/easymodo/qimgv][quigv]]    | Qt5 image viewer with optional video support. Contribute to easymodo/qimgv development by creating an account on GitHub.                               |
+| [[https:https://github.com/sylikc/jpegview][JPEGView]] | Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI. Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure. |
+| [[https:https://wiki.gnome.org/Apps/Shotwell][Shotwell]] | Shotwell is a personal photo manager.                                                                                                                  |
+| [[https:https://allusion-app.github.io/][Allusion]] | Allusion is a tool to help you organize your Visual Library.                                                                                           |
+
+
 
 *** Photoshop Express
 | Name        | Description                                                                                                                                                                                                                                                 |
@@ -131,12 +142,14 @@ considering there are no worthwhile alternative I found.
 | [[https://handbrake.fr/][Handbrake]]       | HandBrake is an open-source, multithreaded video transcoder -- it compresses and converts digital media from one format to another. HandBrake can rip encrypted DVDs with libdvdcss (libdvdcss is installed with VLC media player on macOS, or AnyDVD/DVD 43 on Windows). |
 | [[https://ffmpeg.org/][FFmpeg]]          | FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge. |
 | [[https://www.shutterencoder.com/en/][Shutter Encoder]] | Shutter Encoder is a GUI for video transcoding, designed specifically for video post-production work. It makes use of FFmpeg to handle its encoding, allowing support for almost every codec you’ve ever heard of, and many more you haven’t. |
+| [[https:http://fixounet.free.fr/avidemux/][Avidemeux]]       | Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.                                                                                                                                                       |
 
 *** Scan
-| Name           | Description                                                                                  |
-|----------------+----------------------------------------------------------------------------------------------|
-| [[https://github.com/manisandro/gImageReader][GImageReader]]   | gImageReader is a simple Gtk/Qt front-end to the Tesseract OCR Engine.                       |
-| [[https://tesseract-ocr.github.io/][Tesseract]]      | Tesseract.js is a javascript library that gets words in almost any language out of images.   |
+| Name         | Description                                                                                |
+|--------------+--------------------------------------------------------------------------------------------|
+| [[https://github.com/manisandro/gImageReader][GImageReader]] | gImageReader is a simple Gtk/Qt front-end to the Tesseract OCR Engine.                     |
+| [[https://tesseract-ocr.github.io/][Tesseract]]    | Tesseract.js is a javascript library that gets words in almost any language out of images. |
+| [[https:https://github.com/ethereal-developers/OpenScan][OpenScan]]     |  A privacy-friendly Document Scanner app.                                                                                           |
 
 *** Fill & Sign
 | Name       | Description                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -149,6 +162,11 @@ considering there are no worthwhile alternative I found.
 | [[https://okular.kde.org/][Okular]]     | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.                            |
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]] | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                            |
 | [[https://wiki.gnome.org/Apps/Evince][Evince]]     | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
+* Behance
+| Name    | Description                                                                                              |
+|---------+----------------------------------------------------------------------------------------------------------|
+| [[https:https://ripledd.com/center/][Ripledd]] | Media blogging social network, an entire word of channels and topics.                                    |
+| [[https://creary.net/popular][Creary]]  | Blockchain-based social network of creative portfolios that rewards creators and curators of digital art |
 
 * Links
 [[https:switching.software][switching.software]] has a pretty good list of alternatives to Adobe.
