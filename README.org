@@ -1,5 +1,5 @@
 * Deadobe                                                          :noexport:
-A huge list of alternatives to Adobe products.
+A huge list of free software alternatives to Adobe products.
 * Table of contents                                                    :TOC_4:
 - [[#note][Note]]
 - [[#alternatives][Alternatives]]
