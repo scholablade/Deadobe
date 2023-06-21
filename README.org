@@ -39,7 +39,6 @@ considering there are no worthwhile alternative I found.
 | [[https://github.com/Diolinux/PhotoGIMP][PhotoGIMP]] | A Patch for GIMP 2.10+ for Photoshop Users                                                                                                             |
 | [[https://mypaint-app.com/][MyPaint]]   | It's open source software designed mainly to illustrate and draw with a digitizer tablet. It has a simple interface, where almost all the basic drawing functions are assigned to keyboard shortcuts, which improves workflow speed. In addition, you can hide the entire graphical interface and focus all attention on the drawing without being distracted by unnecessary or complex buttons or palettes. It's a good option if you are interested in digital illustration without too many overwhelming features.MyPaint is a fast, distraction-free, and easy painting tool for digital artists. It supports graphics tablets made by Wacom, and many similar devices. |
 
-
 *** Illustrator
 | Name     | Description                                                                                                                                            |
 |----------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,7 +87,6 @@ considering there are no worthwhile alternative I found.
 
 
 
-
 *** Lightroom Classic
 | Name          | Description                                                                                                                                                                                                                           |
 |---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -129,7 +127,6 @@ considering there are no worthwhile alternative I found.
 | [[https:https://allusion-app.github.io/][Allusion]] | Allusion is a tool to help you organize your Visual Library.                                                                                           |
 
 
-
 *** Photoshop Express
 | Name        | Description                                                                                                                                                                                                                                                 |
 |-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -162,18 +159,18 @@ considering there are no worthwhile alternative I found.
 | [[https://okular.kde.org/][Okular]]     | Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.                            |
 | [[https://www.sumatrapdfreader.org/free-pdf-reader][SumatraPDF]] | Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.                                            |
 | [[https://wiki.gnome.org/Apps/Evince][Evince]]     | Evince (or GNOME Document Viewer) is a document viewer for multiple document formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt) and others. See Supported Document Formats for details. |
-* Behance
+*** Behance
 | Name    | Description                                                                                              |
 |---------+----------------------------------------------------------------------------------------------------------|
 | [[https:https://ripledd.com/center/][Ripledd]] | Media blogging social network, an entire word of channels and topics.                                    |
 | [[https://creary.net/popular][Creary]]  | Blockchain-based social network of creative portfolios that rewards creators and curators of digital art |
 
 * Links
-[[https:switching.software][switching.software]] has a pretty good list of alternatives to Adobe.
-[[https:alternativeto.net][AlternativeTo]], while non-free (free as in freedom), it is the best source to find a specific product alternative.
-[[https:https://github.com/tycrek/degoogle][degoogle]] is a similar list to this one but focusing on Google rather than Adobe.
-[[https:https://www.privacyguides.org/en/][Privacy Guides]] is a guide to use privacy centric software.
-[[https:https://directory.fsf.org/wiki/Main_Page][Free Sofware Directory]] is a catalog of free software.
+- [[https:switching.software][switching.software]] has a pretty good list of alternatives to Adobe.
+- [[https:alternativeto.net][AlternativeTo]], while non-free (free as in freedom), it is the best source to find a specific product alternative.
+- [[https:https://github.com/tycrek/degoogle][degoogle]] is a similar list to this one but focusing on Google rather than Adobe.
+- [[https://coveryourtracks.eff.org][Cover Your Tracks]] is a research project designed to better uncover the tools and techniques of online trackers and test the efficacy of privacy add-ons.
+- [[https:https://directory.fsf.org/wiki/Main_Page][Free Sofware Directory]] is a catalog of free software.
 
 * Credit
 Credit to [[https://github.com/tycrek/degoogle][degoogle]] for inspiration.
